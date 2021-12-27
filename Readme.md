@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently learning  **[Angular](https://angular.io/)**
 
-- 🌱 I’m currently learning **[Django.](https://docs.djangoproject.com/en/3.2/)**
+- 🌱 I’m currently learning **[Python.](https://www.python.org/doc/)**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 

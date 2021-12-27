@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 
 
-- 🔭 I’m currently working on a  **[Real Estate Website](https://github.com/Marcos8060/Fintex-Limited)**
+- 🔭 My latest project is a  **[Twitter clone](https://twitter-clone-6f65a.web.app/)**
 
 - 🔭 I’m currently learning  **[Angular](https://angular.io/)**
 

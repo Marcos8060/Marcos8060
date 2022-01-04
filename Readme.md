@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 
 
-- 🔭 My latest project is a  **[Twitter clone](https://twitter-clone-6f65a.web.app/)**
+- 🔭 I'm curretly working on a  **[Slack clone](https://github.com/Marcos8060/Slack-clone)**
 
 - 🔭 I’m currently learning  **[Angular](https://angular.io/)**
 

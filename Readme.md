@@ -7,11 +7,11 @@
 ## 🙋‍♂️ About Me
 
 
-- 🔭 I'm curretly working on a  **[Slack clone](https://github.com/Marcos8060/Slack-clone)**
+- 🔭 I'm curretly working on a  **[Personal Project](https://github.com/Marcos8060/Slack-clone)**
 
-- 🔭 I’m currently learning  **[Angular](https://angular.io/)**
+- 🔭 I’m currently learning  **[Flask](https://flask.palletsprojects.com/en/2.0.x/)**
 
-- 🌱 I’m currently learning **[Python.](https://www.python.org/doc/)**
+- 🔭 I’m currently learning  **[Django](https://www.djangoproject.com/)**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 

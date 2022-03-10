@@ -9,7 +9,7 @@
 
 - 🔭 I'm curretly working on a  **[Personal Project](https://github.com/Marcos8060/Slack-clone)** with React and Firebase.
 
-- 🔭 I’m currently learning  **[Flask](https://flask.palletsprojects.com/en/2.0.x/)**
+- 🔭 I’m currently learning  **[Django Rest Framework](https://www.django-rest-framework.org/)**
 
 - 🔭 I’m currently learning  **[Django](https://www.djangoproject.com/)**
 

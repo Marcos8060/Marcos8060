@@ -6,13 +6,6 @@
 
 ## 🙋‍♂️ About Me
 
-
-- 🔭 I'm curretly working on a  **[Personal Project](https://github.com/Marcos8060/Slack-clone)** with React and Firebase.
-
-- 🔭 I’m currently learning  **[Django Rest Framework](https://www.django-rest-framework.org/)**
-
-- 🔭 I’m currently learning  **[Django](https://www.djangoproject.com/)**
-
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://marcosochieng.netlify.app/)**

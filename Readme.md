@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="200px" src="https://avatars.githubusercontent.com/u/75485447?v=4" height="125px"/></a>
+<a href="#"><img width="300px" height="300px" src="https://avatars.githubusercontent.com/u/75485447?v=4" height="125px"/></a>
 
 <h1 align="center">Hi https://avatars.githubusercontent.com/u/75485447?v=4, I'm Marcos</h1>
 <h3 align="center">I'm a passionate and self driven Software developer from Nairobi Kenya.</h3>

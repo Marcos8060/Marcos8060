@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://marcosochieng.netlify.app/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://marcos-ochieng.vercel.app/)**
 
 - 📫 How to reach me **marcosgav80@gmail.com**
 

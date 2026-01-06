@@ -8,8 +8,6 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://marcos-ochieng.vercel.app/)**
-
 - 📫 How to reach me **marcosgav80@gmail.com**
 
 - ⚡ Fun fact **I play video games and watch lots of movies during my free time.**
